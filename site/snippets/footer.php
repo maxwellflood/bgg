@@ -61,6 +61,7 @@
     <script src="../assets/scripts/echo.min.js" type="text/javascript"></script>
     <script src="../assets/scripts/mixitup.min.js" type="text/javascript"></script>
     <script src="../assets/scripts/wp.min.js" type="text/javascript"></script>
+    <script src="../assets/scripts/reframe.min.js" type="text/javascript"></script>
     <script src="../assets/scripts/app.js" type="text/javascript"></script>
 
     <!-- Typeform -->

@@ -1,0 +1,50 @@
+title: Branding
+
+pages: false
+
+fields:
+
+  title:
+    label: Title
+    type:  text
+
+  introTitle:
+    label: Intro Title
+    type:  text
+
+  introCopy:
+    label: Intro Text
+    type:  textarea
+
+  block01Title:
+    label: Content Block 01 Title
+    type:  text
+
+  block01Image:
+    label: Content Block 01 Image
+    type: image
+
+
+  block01Text:
+    label: Content Block 01 Text
+    type:  textarea
+
+  block02Title:
+    label: Content Block 02 Title
+    type:  text
+
+  block02Image:
+    label: Content Block 02 Image
+    type: image
+
+  block02Text:
+    label: Content Block 02 Text
+    type:  textarea
+
+  ctaTitle:
+    label: CTA Title
+    type:  text
+
+  ctaText:
+    label: CTA Text
+    type:  textarea

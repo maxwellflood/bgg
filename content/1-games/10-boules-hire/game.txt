@@ -1,0 +1,71 @@
+Title: Boules Hire
+
+----
+
+Headerimage: 
+
+----
+
+Introtext: Boules sets available to hire as part of our garden games packages. This game is popularly played in the south of France, so have a taste of luxury at your next garden games event.
+
+----
+
+Gametype: garden
+
+----
+
+Productinfo: 
+
+(product: Boules Hire
+
+prodDesc:Boules sets available to hire as part of our garden games packages. This game is popularly played in the south of France, so have a taste of luxury at your next garden games event. Certainly a game for the more docile on a warm summer's evening.  Sometimes referred to as Petanque or quite simply bowls, regardless of name it’s a game we at Burlington Games Group find hugely popular.
+
+prodList: 
+<li>8 Polished Metal boules</li>
+<li>Wooden Jack </li>
+<li>Canvas carry case</li>
+<li>Delivery and collection as part of a garden games package</li>
+
+prodDim: 
+<li>Space required is officially 15m by 4m</li>
+
+prodRules: 
+Divide yourselves into 2 teams, for 2 players take 4 boules each, for 3 players take 2 boules each. Choose one team to through the jack at least 4m away and this becomes the target. The same team will draw a circle in the sand where all players must through their boules from.  Players then take it in turn to aim for the jack, the team with their boules closest to the jack by the end of play is the winner. 
+
+prodBook:
+https://burlingtongames.typeform.com/to/Cbf7ji
+)
+
+----
+
+Contactoptions: 
+
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: Ready to roll?
+
+----
+
+Ctatext: 

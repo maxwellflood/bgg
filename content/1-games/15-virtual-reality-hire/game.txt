@@ -1,0 +1,78 @@
+Title: Virtual Reality Hire
+
+----
+
+Headerimage: 09-vr-1440x960.png
+
+----
+
+Introtext: Virtual Reality Hire is the newest offering from Burlington Games Group. Our VR simulator hire is available across the UK. This is the most  exhilarating, immersive and cutting edge VR gaming experience on the market.
+
+----
+
+Gametype: sports
+
+----
+
+Productinfo: 
+
+(product: Virtual Reality Hire
+
+prodDesc:Our Virtual Reality Hire offering provides the essential requirements: Reliability, High Performance and a Completely Unique gaming selection. The virtual reality gaming selection we provide is wide ranging and utterly unique. The units are self contained with safety bars front and back so to allow for no accidents or falls! Our VR simulators  for hire are monitored by operators who can guide you through the virtual reality game selection. 
+
+prodList: 
+<li>Half day rental VR simulator hire  and full day VR simulator hire options available
+</li>
+<li>Virtual Reality Simulators are perfect for trade shows, conferences, product launches and events</li>
+<li>Over 20 games in 1 unit on every virtual reality simulator </li>
+<li>Experienced on-site operators for the duration of the virtual reality experience to assist guests with game selection </li>
+<li>Bespoke or branded virtual reality simulator offering with our branding service to stand out and demonstrably generate brand awareness and memorable experiences affiliated with your company</li>
+<li>Oculus Rift VR headset for highest quality graphics and the full 360 view</li>
+<li>Choose from 1 up to 3 virtual reality simulators for your event</li>
+<li>All virtual reality units are equipped with surround sound, vibration system, back support and wind generator to create a fully immersive VR experience</li>
+
+prodDim:
+<li>Unit measures 2.5m tall by 2.5m deep by 1.5m wide </li>
+<li>Suggested footprint required 3m by 2m</li>
+
+prodRules:
+Take it in turns, form an orderly queue and don't hog it!  
+
+prodBook:
+https://burlingtongames.typeform.com/to/PztLe2
+
+)
+
+----
+
+Contactoptions: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

@@ -1,0 +1,76 @@
+Title: Blackjack Table Hire
+
+----
+
+Headerimage: 09-bj-1440x960.png
+
+----
+
+Introtext: Blackjack is as accessible as it is enjoyable and regardless of playing level, our professional croupiers ensure that your guests can enjoy the game together.
+
+----
+
+Gametype: casino
+
+----
+
+Productinfo: 
+
+(product: Blackjack Table Hire
+
+prodDesc:Blackjack is the go to card game in any casino and one of the most popular casino tables to book for a casino themed event. Blackjack table hire is essential in any 2 table or larger casino table hire booking. Blackjack tables accommodate 9 players at once, so much like roulette you can entertain plenty of guests throughout the course of your event. Blackjack is as accessible as it is enjoyable and regardless of playing level, our professional croupiers ensure that your guests can enjoy the game together.
+
+prodList: 
+<li>Full size Casino-grade blackjack table</li>
+<li>Professional croupier to deal and explain rules to guests</li>
+<li>Casino playing chips [11g colour] and cash chips [14.5g]</li>
+<li>Fun money tokens</li>
+<li>Bottle of bubbly for the winner</li>
+<li>Delivery, installation & collection</li>
+
+prodDim: 
+<li>Table once constructed measures 1.8m by 1.2m </li>
+<li>Footprint required 2.5m by 1.8m</li>
+<li>Accommodates up to 9 players at any one time</li>
+
+prodRules: 
+In blackjack your aim is to gain a better blackjack hand than the house [croupier] and the house only. You do not need to beat the other players. This game is great for team building casino events once you all start working together to beat the house. The best hand in blackjack is 21 which can only be achieved by having an Ace [worth 11 or 1] and a card worth 10 [10, J, Q, K]. This totals 21 which is the key to this game If you have closer to 21 than the dealer you win. Just don’t go over 21 or else you go bust. 
+
+prodBook:
+https://burlingtongames.typeform.com/to/tH6SB1
+
+)
+
+----
+
+Contactoptions: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

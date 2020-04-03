@@ -1,0 +1,72 @@
+Title: Giant Chess Hire
+
+----
+
+Headerimage: 09-ch-1440x960.png
+
+----
+
+Introtext: Impress your guests by playing Chess on a giant scale! Complete with oversized playing pieces and chequered roll out mat to act as playing board.
+
+----
+
+Gametype: garden
+
+----
+
+Productinfo: 
+
+(product: Giant Chess Hire
+
+prodDesc:Impress your guests by playing Chess on a giant scale! Complete with oversized playing pieces and chequered roll out mat to act as playing board. Our Chess board is a whopping 3m by 3m board! You’d be hard pushed to find a larger chess set. Suitable for garden parties, rooftop drinks receptions and guest entertainment at summer weddings.
+
+prodList: 
+<li>Giant Chequered Chess mat</li>
+<li>Giant Chess pieces</li>
+<li>Delivery, installation ready for play and collection</li>
+
+prodDim: 
+<li>3m by 3m playing area</li>
+<li>Largest playing piece stands 60cm tall</li>
+
+prodRules: 
+Well we may be here all day to explain the rules of Chess! The set up of the board is probably very important as a start, but we will set this up correctly on delivery for you. From there certain pieces can only move in certain directions and players take it in turn to move them. The aim is to take the King [the largest piece on the board]. Our recommendation is to hold onto your Queen for as long as possible! It’s the most useful piece on the board as it is allowed to move in all directions. 
+
+prodBook:
+https://burlingtongames.typeform.com/to/lpsgVU
+
+)
+
+----
+
+Contactoptions: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

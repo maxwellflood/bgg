@@ -1,0 +1,90 @@
+Title: Wedding Packages
+
+----
+
+Introtitle: Wedding Games Hire
+
+----
+
+Introcopy: It’s your big day and you’ve got a huge garden space to fill with entertainment for guests. Look no further for the perfect wedding games package, complete with the highest quality garden games. Garden games are a great form of background entertainment to dress the garden space and make use of your beautiful venue and the surrounding grounds. We work across a variety of venues within London, the home counties and further afield.
+
+----
+
+Headerimage: 
+
+----
+
+Introtext: Your big day is fast approaching and you want some fun garden games to entertain you guests for minimal effort.
+
+----
+
+Productinfo: 
+
+(package: Silver Wedding Games Package
+prodDesc: The silver package includes 5 garden games. We’ve chosen the most popular garden games for our silver package. The games are beautifully maintained and will add an extra dimension to your big day keeping adults and children alike entertained.
+prodList: 
+<li>1 x Giant Jenga</li>
+<li>1 x Giant Connect 4</li>
+<li>1 x Boules</li>
+<li>1 x Quoits</li>
+<li>1 x Table Tennis Table</li>
+prod01: Silver Wedding Games Package
+prod01Price: £350
+prodBook:https://burlingtongames.typeform.com/to/ALHb6f)
+
+(package: Gold Wedding Games Package
+prodDesc: The gold wedding package includes all the items from the silver package plus a championship croquet set
+prodList: 
+<li>1 x Giant Jenga</li>
+<li>1 x Giant Connect 4</li>
+<li>1 x Boules</li>
+<li>1 x Quoits</li>
+<li>1 x Table Tennis Table</li>
+<li>1 x  Championship Croquet Set</li>
+prod01: Gold Wedding Games Package
+prod01Price: £475
+prodBook:https://burlingtongames.typeform.com/to/SAl1ek)
+
+(package: Diamond Wedding Games Package
+prodDesc: Our premier wedding hire package includes all the items in the Gold package as well as any other additional item of your choosing.
+prodList: 
+<li>1 x Giant Jenga</li>
+<li>1 x Giant Connect 4</li>
+<li>1 x Boules</li>
+<li>1 x Quoits</li>
+<li>1 x Table Tennis Table</li>
+<li>1 x  Croquet Set</li>
+<li>1 x  Additional Item</li>
+prod01: Diamond Wedding Games Package
+prod01Price: £575
+prodBook:https://burlingtongames.typeform.com/to/RMZEM5)
+
+----
+
+Extrasimages: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+
+----
+
+Extrastitle: Custom Branding
+
+----
+
+Extrastext: 
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

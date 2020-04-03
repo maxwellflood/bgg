@@ -1,0 +1,21 @@
+Title: Games Hire
+
+----
+
+Text: This portfolio layout might be used to showcase your latest design work, a collection of your favorite recipes or maybe something completely different? All projects are subpages of the <mark>projects</mark> page and are fetched by a snippet file called <mark>showcase.php</mark>.
+
+----
+
+Introtitle: Let The Games Begin
+
+----
+
+Introcopy: We offer a wide range of games to hire that suit indoor and outdoor events and parties. Fundraisers, private parties,  office parties, weddings, corporate events, trade shows, product launches, children’s parties or just a BBQ with friends, we have something for everyone.
+
+----
+
+Ctatitle: Ready to play like a pro?
+
+----
+
+Ctatext: 

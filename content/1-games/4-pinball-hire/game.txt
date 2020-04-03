@@ -1,0 +1,71 @@
+Title: Pinball Hire
+
+----
+
+Headerimage: 09-pb-1440x960.png
+
+----
+
+Introtext: When it comes to hosting a retro games event nothing says retro quite like a Pinball Table. Choose from a huge selection of pinball machine themes and designs
+
+----
+
+Gametype: sports
+
+----
+
+Productinfo: 
+
+(product: Pinball  Hire
+
+prodDesc: Our stock of pinball machines to hire are wide ranging and as retro as they come. The Pinballs we hire are not coin operated which allows guests to play as much as they like throughout your event. Pinball machine hire is perfect for product launches or client entertainment. There are various themes available from films, tv shows, cartoons and music to help turn your venue for the night into a retro arcade experience not to forget.
+
+prodList: 
+<li>Full size free play operational pinball machines</li>
+<li>Delivery, installation and collection included</li>
+<li>Wide and varied selection of themes varying subject to availability</li>
+
+prodDim: 
+<li>Pinballs vary in size slightly - average dimensions are 83cm by 150cm by 190cm</li>
+<li>We require a standard single door width for install, usually 83cm wide </li>
+
+prodRules: 
+Every Pinball Machine has a different set of rules. The beauty of pinball machines is that they are all unique. It's much like playing a computer game before the digital revolution turned gaming on its head. Certain objectives need to be achieved to progress whilst playing certain pinball machines and they are usually available on the machine. Most pinball games are the traditional 3 ball game and you have to accumulate the most amount of points available using those 3 balls. During the course of the game however, depending on your success additional balls and multi balls may be added during gameplay. There is a huge amount of skill in pinball to understand how to make the best shots using both the left and right flipper. Like every great game though, practice makes perfect. 
+
+prodBook:
+https://burlingtongames.typeform.com/to/PCo4h6
+)
+
+----
+
+Contactoptions: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

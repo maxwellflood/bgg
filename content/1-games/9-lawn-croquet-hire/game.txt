@@ -1,0 +1,74 @@
+Title: Lawn Croquet  Hire
+
+----
+
+Headerimage: 09-cr-1440x960.png
+
+----
+
+Introtext: Our croquet hire is the essential game for a quintessentially British summer party.
+
+----
+
+Gametype: garden
+
+----
+
+Productinfo: 
+
+(product: Lawn Croquet Hire
+
+prodDesc:Our croquet hire is the essential game for a quintessentially British summer party. The set comes in a beautiful wooden box and is a brilliant product for any outdoor event where there is a large lawn space available. A beautiful addition for weddings, drinks receptions, children's parties and corporate summer parties. 
+
+prodList: 
+<li>Championship croquet set in wooden box</li>
+<li>4 x Croquet Mallets and croquet balls</li>
+<li>6 x Hoops, set of croquet clips, ball markers and the all important 4 colour winning peg</li>
+<li>1 x Croquet rule book</li>
+<li>Delivery, set up of hoops in correct positions, collection. </li>
+
+prodDim: 
+<li>Box is 109cm by 31cm by 21cm</li>
+<li>Space required is officially 17.5m by 14m</li>
+
+prodRules: 
+Refer to our free croquet rule book for a synopsis on the rules of Croquet. Essentially the last player to hit the winning peg is the winner having travelled the course successfully hitting his/her ball through the hoops in the correct order. 
+
+prodBook:
+https://burlingtongames.typeform.com/to/IdymhD
+
+)
+
+----
+
+Contactoptions: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

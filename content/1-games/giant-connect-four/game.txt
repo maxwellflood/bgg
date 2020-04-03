@@ -1,0 +1,73 @@
+Title: Giant Connect Four Hire
+
+----
+
+Headerimage: 
+
+----
+
+Introtext: A mainstay of summer garden events, office summer parties and summer evenings at home.
+
+----
+
+Gametype: garden
+
+----
+
+Productinfo: 
+
+(product: Giant Connect Four Hire
+
+prodDesc:Our giant connect 4 is a beautifully crafted wooden giant connect 4 set. A mainstay of summer garden events, office summer parties and summer evenings at home. Connect 4 is much better played in a giant version providing fun for children and adults alike as part of a garden games hire package. We can also create bespoke discs for events so if you are planning to retain a momento from the special day or have a product launch this is a great interactive game for guests. 
+
+prodList: 
+<li>42 discs in 2 different colours</li>
+<li>Hand crafted wooden frame </li>
+<li>2 x boxes to store playing discs in</li>
+<li>Delivery, installation ready for play and collection as part of a garden games package</li>
+
+prodDim: 
+<li>Giant Connect 4 is 120cm by 100cm</li>
+<li>Discs are 42cm diameter and 13cm depth</li>
+
+prodRules: 
+A game best played between 2 players, but can be played in teams of 2. The objective of the game is to make a row of 4 with the discs vertically, diagonally or horizontally on the connect 4 board. Players take it in turn to drop their discs into the board. Another simple game but brilliantly entertaining. 
+
+prodBook:
+https://burlingtongames.typeform.com/to/z0pVyC
+
+)
+
+----
+
+Contactoptions: 
+
+- 
+  title: ""
+  icon: 08-pl-1200x800.png
+- 
+  title: ""
+  icon: 08-pl-1200x800.png
+- 
+  title: ""
+  icon: 08-pl-1200x800.png
+
+----
+
+Extrastitle: Custom Branding Services
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

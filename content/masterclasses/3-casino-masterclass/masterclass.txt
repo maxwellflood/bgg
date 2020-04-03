@@ -1,0 +1,55 @@
+Title: Casino Masterclasses
+
+----
+
+Headerimage: 09-cas_mc-1440x960.png
+
+----
+
+Introtext: Learn everything there is to know about the 4 major casino games - Poker, Dice, Roulette and Blackjack
+
+----
+
+Productinfo: 
+
+(packageBtm: Casino Masterclass
+prodDesc: The Burlington games casino masterclass provides a structured environment for all your guests to learn everything there is to know about the 4 major casino games - Poker, Dice, Roulette and Blackjack. As well as being able to play each of the games, we provide detailed tuition in how to play the games, strategy advice and tips where applicable and advanced mathematical concepts on giving yourself as much of an edge as possible on winning the most coupled with reducing your losses. After the tuition period we allow guests to play across all the tables and award the biggest winner on the night a bottle of bubbly!
+prodList: 
+<li>4 x Professional full size casino tables [Roulette, Blackjack, Dice/Craps and Poker]</li>
+<li>4 x Professional croupiers to deal, teach and advise guests. </li>
+<li>1 hour tuition session across all the games followed by a 2 hour casino competition </li>
+<li>1 x Bottles of bubbly for the biggest winner on the night. </li>
+<li>1 x Casino manager to host the event and provide on the spot guidance and insight to guests. </li>
+prod01: Casino Masterclass
+prod01Price: £950
+prodBook:https://burlingtongames.typeform.com/to/x98ZRX)
+
+----
+
+Extrasimages: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+
+----
+
+Extrastitle: Custom Branding
+
+----
+
+Extrastext: Personalise your event with our bespoke branding service.
+
+----
+
+Ctatitle: Ready to play like a pro?
+
+----
+
+Ctatext: 

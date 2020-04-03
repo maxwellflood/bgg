@@ -1,0 +1,75 @@
+Title: Dice Table Hire
+
+----
+
+Headerimage: 
+
+----
+
+Introtext: Dice [Craps] is a great option for guest participation, and is sure to keep everyone entertained at events as the “shooter” rolls against the house.
+
+----
+
+Gametype: casino
+
+----
+
+Productinfo: 
+
+(product: Dice Table Hire
+
+prodDesc: Dice [Craps] is a great option for guest participation and is sure to keep everyone entertained at events as the “shooter” rolls against the house. Our dice table hire option is of the highest quality and our croupiers are on hand to provide detailed tuition prior to and during the game, ensuring that everyone can enjoy the game regardless of their experience. A hit for corporate events, private parties, evening soirees, team building activities and weddings. Let us teach you how to play craps at your next event. 
+
+prodList: 
+<li>Casino-grade dice table with precision dice</li>
+<li>Professional croupier to deal and explain rules to guests</li>
+<li>Casino playing chips [14.5g denomination tournament poker chips $5 - $5,000]</li>
+<li>Fun money tokens</li>
+<li>Bottle of bubbly for the winner</li>
+<li>Delivery, installation & collection</li>
+
+prodDim: 
+<li>Table once constructed measures 1.8m by 1.5m </li>
+<li>Footprint required 2.8m by 2.5m</li>
+<li>Accommodates up to 10 players at any one time</li>
+
+prodRules: 
+For details on the rules to playing craps we recommend booking a table. It is truly the only way to learn. Craps is essentially betting on the roll of 2 dice. Craps is a multi-layered game with plenty of betting options. This is the game that requires heavy participation from the fun casino guests through whooping and hollering when ‘the shooter’ rolls good. Still a house game where you are playing against the casino [house] but one where all can win big when pressing their bets. For details on the rules we recommend booking a table. It is truly the only way to learn.  
+
+prodBook:
+https://burlingtongames.typeform.com/to/kBQf0j
+)
+
+----
+
+Contactoptions: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

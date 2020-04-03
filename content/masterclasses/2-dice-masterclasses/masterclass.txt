@@ -1,0 +1,54 @@
+Title: Dice Masterclasses
+
+----
+
+Headerimage: 
+
+----
+
+Introtext: Our craps dealers have worked across the world dealing this brilliant game and have a wealth of knowledge to pass onto those looking to learn more about this fantastic casino game
+
+----
+
+Productinfo: 
+
+(packageBtm: Dice / Craps Masterclass
+prodDesc: Dice or ‘Craps’ as it is know in gambling circles is the most complex of all the casino games. As such a masterclass session allows you and your guests to learn and Burlington Games are the leading provider of craps masterclasses. Our craps dealers have worked across the world dealing this brilliant game and as such have a wealth of experience and knowledge to pass onto those looking to learn more about this fantastic casino game.
+prodList: 
+<li>1 x Professional craps table</li>
+<li>1 x Professional croupier and host to deal, teach and share strategy tips for guests.. </li>
+<li>1 hour tuition session followed by a 2 hour craps competition </li>
+<li>1 x Bottles of bubbly for the biggest winner on the night. </li>
+prod01: Dice Masterclass
+prod01Price: £400
+prodBook:https://burlingtongames.typeform.com/to/PxbpJP)
+
+----
+
+Extrasimages: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+
+----
+
+Extrastitle: Custom Branding
+
+----
+
+Extrastext: Personalise your event with our bespoke branding service.
+
+----
+
+Ctatitle: Ready to play like a pro?
+
+----
+
+Ctatext: 

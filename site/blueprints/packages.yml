@@ -1,0 +1,32 @@
+title: Packages
+
+files: false
+
+pages:
+  template: package
+
+options:
+  template: true
+  status: false
+  url: true
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  introTitle:
+    label: Intro Title
+    type:  text
+
+  introCopy:
+    label: Intro Text
+    type:  textarea
+
+  ctaTitle:
+    label: CTA Title
+    type:  text
+
+  ctaText:
+    label: CTA Text
+    type:  textarea

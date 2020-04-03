@@ -1,0 +1,17 @@
+title: Privacy
+
+pages: false
+
+fields:
+
+  title:
+    label: Title
+    type:  text
+
+  introTitle:
+    label: Intro Title
+    type:  text
+
+  introCopy:
+    label: Intro Text
+    type:  textarea

@@ -1,0 +1,79 @@
+Title: Retro Arcade Hire
+
+----
+
+Headerimage: 09-rg-1440x960.png
+
+----
+
+Introtext: Take yourself back to the 80's and 90's with our wide and varied selection of retro arcades for hire including Pacman, Space Invaders, Galaga, Tetris and more.
+
+----
+
+Gametype: sports
+
+----
+
+Productinfo: 
+
+(product: Retro Arcade Game Hire
+
+prodDesc: Retro arcade games such as Pacman, Space Invaders, Tetris and units that have multiple games in one cabinet. Perfect for a one off event or a long term hire. Cabinets are beautifully maintained and can be delivered nationwide. 
+
+prodList: 
+<li>Pacman</li>
+<li>Mrs Pacman</li>
+<li>Space Invaders</li>
+<li>Giant Tetris</li>
+<li>Galaga</li>
+<li>Giant Pacman and Space Invaders</li>
+<li>retro pinballs</li>
+<li>Daytona, Sega Grid, Sega Rally and Outrun 2 Twin Driving Simulators</li>
+<li>Outrun 2 - 4 player linked Driving Simulators</li>
+
+prodRules:
+Thankfully retro arcades tend to have 2 buttons and a joystick so the rules are out the window! Press the buttons as fast as possible and smile! 
+
+prodDim: 
+<li>Vary depending on cabinet choosen</li>
+<li>Single door width usually suitable</li>
+<li>Flat surface and lift access required if not ground floor</li>
+
+prodBook:
+https://burlingtongames.typeform.com/to/DxLAUV
+
+)
+
+----
+
+Contactoptions: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

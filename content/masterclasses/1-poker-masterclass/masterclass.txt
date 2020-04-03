@@ -1,0 +1,85 @@
+Title: Poker Masterclass
+
+----
+
+Introtitle: 
+
+----
+
+Introcopy: 
+
+----
+
+Headerimage: 09-po-1440x960.png
+
+----
+
+Introtext: Whether you are a complete beginner or have played a few times this is the masterclass for you.
+
+----
+
+Productinfo: 
+
+(package: Beginner Poker Masterclass
+prodDesc: This is our most affordable package. As specialists in poker we offer quite simply the best poker masterclass session on the market. This is the opportunity to learn from the professionals. Whether you are a complete beginner or have played a few times this is the poker masterclass for you. The perfect treat for intimate occasions with friends or hosting key clients.
+prodList: 
+<li>Full Size Professional Poker Tables - cater for up to 10 players at anyone time.</li>
+<li>Casino standard poker tournament chips and cards.</li>
+<li>London’s best Poker croupiers to deal and manage the tables for you.</li>
+<li>Tournament standard poker clock display.</li>
+<li>Bottle of bubbly for the tournament winner</li>
+<li>Detailed 30 minute tuition period on the procedures and rules of Texas Hold ‘Em Poker.</li>
+<li>Followed by a 3.5 hour tournament monitored by our TDA approved croupiers.</li>
+prod01: 1 Table Masterclass
+prod01Price: £350
+prod02: 2 Table Masterclass
+prod02Price: £550
+prodBook:https://burlingtongames.typeform.com/to/tH6SB1)
+
+
+
+(packageBtm: Advanced Poker Masterclass
+prodDesc: Already a Texas Hold ‘Em aficionado? This is the opportunity to learn from the professionals all the other brilliant variants of the wonderful game of Poker. Whether you have never tasted Omaha or Stud or have played a it a few times this is the masterclass for you. The perfect treat for poker playing friends or hosting a team building event for those keen to learn and stretch themselves.
+prodList: 
+<li>Full Size Professional Poker Tables - cater for up to 10 players at anyone time.</li>
+<li>Casino standard poker tournament chips and cards.</li>
+<li>London’s best Poker croupiers to deal and manage the tables for you.</li>
+<li>Tournament standard poker clock display.</li>
+<li>Bottle of bubbly for the tournament winner</li>
+<li>Detailed 1 hour tuition period on the procedures and rules of all variants of Poker covering Omaha, Stud, Draw in all varieties of Limit, Pot Limit and No Limit betting.</li>
+<li>Followed by a 3 hour tournament monitored by our TDA approved croupiers</li>
+prod01: 1 Table Masterclass
+prod01Price: £450
+prod02: 2 Table Masterclass
+prod02Price: £650
+prodBook:https://burlingtongames.typeform.com/to/gHGJ6c)
+
+----
+
+Extrasimages: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+
+----
+
+Extrastitle: Custom Branding
+
+----
+
+Extrastext: Personalise your event with our bespoke branding service.
+
+----
+
+Ctatitle: Ready to play like a pro?
+
+----
+
+Ctatext: 

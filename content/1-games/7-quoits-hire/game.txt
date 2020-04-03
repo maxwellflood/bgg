@@ -1,0 +1,72 @@
+Title: Quoits  Hire
+
+----
+
+Headerimage: 09-qu-1440x960.png
+
+----
+
+Introtext: The simplest of games are often the best and quoits is a must have for any garden games party or summer soiree.
+
+----
+
+Gametype: garden
+
+----
+
+Productinfo: 
+
+(product: Quoits  Hire
+
+prodDesc:Quoits is a classic ‘jeux de jardin’.  Our quoits sets are handcrafted rope quoits paying homage to this quintessentially classic garden game. One of the simplest garden games but an utter joy to play in the summer sun. The simplest of games are often the best and quoits is a must have for any garden games party or summer soiree. 
+
+prodList: 
+<li>Natural wood finish quoits set</li>
+<li>4 Rope Quoits</li>
+<li>Rule book</li>
+<li>Delivery and collection as part of a garden games package</li>
+
+prodDim: 
+<li>Space required is any length up to 16m</li>
+
+prodRules: 
+This is a game for 2 players only at any time. Quite simply toss the quoits in turn to attain the biggest score. Scores are gained by landing your quoit over the pegs. Scores are determined by which peg you land your quoit over as certain pegs offer a different score. 
+
+prodBook:
+https://burlingtongames.typeform.com/to/CXvEpE
+
+)
+
+----
+
+Contactoptions: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

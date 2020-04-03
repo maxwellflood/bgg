@@ -1,0 +1,111 @@
+Title: Games Hire Packages
+
+----
+
+Introtitle: Game on
+
+----
+
+Introcopy: Our most affordable games offering are our games hire packages. We have packages starting from just £250.00 for your event. Choose from an array of items such as Table Football, Air Hockey, Table Tennis, Giant Games and Lawn Games.
+
+----
+
+Headerimage: 
+
+----
+
+Introtext: Build your own affordable games hire package with our brand new selection of the most popular games to hire.
+
+----
+
+Productinfo: 
+
+(package: Customised Games Package
+prodDesc: Build your own bespoke games package. Simply click the Book Now button to fill out your selection and we will send a quote straight back to you.
+Games delivered, installed and collected within a 48 hour window to your chosen venue
+prodList: 
+<li>Choose items from all the below</li>
+
+<li>Table Football Table</li>
+<li>Table Tennis Table</li>
+<li>Air Hockey Table</li>
+<li>Basketball Double Shoot Game</li>
+<li>4-9 Hole Mini Golf</li>
+<li>Darts</li>
+<li>Giant Chess</li>
+<li>6 Player Championship Croquet Set</li>
+<li>Giant Connect 4</li>
+<li>Quoits</li>
+<li>Boules</li>
+<li>Giant Jenga</li>
+prod01: Customised Games Package
+prod01Price: from £295, final price subject to games selected
+prodBook:https://burlingtongames.typeform.com/to/ybbEJT)
+
+(package: Lawn Games Package
+prodDesc: Delivered, installed and collected within a 48 hour window
+prodList: 
+<li>1 x Giant Connect 4</li>
+<li>1 x Boules</li>
+<li>1 x Quoits</li>
+<li>1 x Giant Jenga</li>
+<li>1 x Giant Chess</li>
+prod01: Lawn Games Package
+prod01Price: £350
+prodBook:https://burlingtongames.typeform.com/to/kmTE2Q)
+
+(package: Premium Lawn Games Package
+prodDesc: Delivered, installed and collected within a 48 hour window
+prodList: 
+<li>1 x Giant Connect 4</li>
+<li>1 x Boules</li>
+<li>1 x Quoits</li>
+<li>1 x Giant Jenga</li>
+<li>1 x Giant Chess</li>
+<li>1 x Croquet Set</li>
+<li>1 x Table Tennis Tables</li>
+prod01: Premium Lawn Games Package
+prod01Price: £575
+prodBook:https://burlingtongames.typeform.com/to/GbCqUA)
+
+(package: Pub Games Package
+prodDesc: Delivered, installed and collected within a 48 hour window
+prodList: 
+<li>1 x Table Football Tables</li>
+<li>1 x Table Tennis Table</li>
+<li>1 x Air Hockey</li>
+<li>1 x Darts</li>
+<li>1 x Pool Table</li>
+prod01: Pub Games Package
+prod01Price: £775
+prodBook:https://burlingtongames.typeform.com/to/AWtxPe)
+
+----
+
+Extrasimages: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+
+----
+
+Extrastitle: CustomBranding
+
+----
+
+Extrastext: 
+
+----
+
+Ctatitle: Ready to raise your game?
+
+----
+
+Ctatext: 

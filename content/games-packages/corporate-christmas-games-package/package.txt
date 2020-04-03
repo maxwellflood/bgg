@@ -1,0 +1,77 @@
+Title: Christmas Games Hire Package
+
+----
+
+Introtitle: Christmas Entertainment sorted
+
+----
+
+Introcopy: We've got affordable Christmas party packages through to premium party packages for all your Christmas party needs. The busiest time of the year calls for reliable, well priced packages and we cater for all event sizes. 10% Discount on all prices if event date is a Saturday - Wednesday
+
+----
+
+Headerimage: 
+
+----
+
+Introtext: The busiest time of the year calls for reliable, well priced packages and we cater for all event sizes
+
+----
+
+Productinfo: 
+
+(package: Standard Christmas Games Package
+prodDesc: Our Standard Christmas Games Hire Package include 4 popular games to bring staff and guests together for the night. We’ve chosen the most popular games for our standard Christmas games package. The games are beautifully maintained and will add an extra dimension to your Christmas party.
+prodList: 
+<li>1 x Table Football Table</li>
+<li>1 x Air Hockey Table</li>
+<li>1 x Darts</li>
+<li>1 x Table Tennis Table</li>
+prod01: Standard Christmas Games Package
+prod01Price: £650)
+prodBook:https://burlingtongames.typeform.com/to/yTOqPD)
+
+(package: Premium Christmas Games Package
+prodDesc: Our Premium Christmas Games Hire Package includes all the items in the standard package and any other game of your choosing.
+prodList: 
+<li>1 x Table Football Table</li>
+<li>1 x Air Hockey Table</li>
+<li>1 x Darts</li>
+<li>1 x Table Tennis Table</li>
+<li>1 x Any other game of your choosing</li>
+prod01: Premium Christmas Games Package
+prod01Price: £775)
+prodBook:https://burlingtongames.typeform.com/to/CTs8TS)
+
+(package: Deluxe Christmas Games Package
+prodDesc: Our Deluxe Christmas Games Hire Package includes all the items in the premium package as well as a full size Pool table. 
+prodList: 
+<li>1 x Table Football Table</li>
+<li>1 x Air Hockey Table</li>
+<li>1 x Darts</li>
+<li>1 x Table Tennis Table</li>
+<li>1 x Pool Table</li>
+<li>1 x Any other game of your choosing</li>
+prod01: Deluxe Christmas Games Package
+prod01Price: £950)
+prodBook:https://burlingtongames.typeform.com/to/fb74JD)
+
+----
+
+Extrasimages: 
+
+----
+
+Extrastitle: 
+
+----
+
+Extrastext: 
+
+----
+
+Ctatitle: 
+
+----
+
+Ctatext: 

@@ -1,0 +1,75 @@
+Title: Darts Hire
+
+----
+
+Headerimage: 
+
+----
+
+Introtext: We provide a darts hire service as part of our games hire offering complete with host to score the evening for you.
+
+----
+
+Gametype: sports garden
+
+----
+
+Productinfo: 
+
+(product: Darts Hire
+
+prodDesc:Do you want to play darts at your event or in the office? We provide a darts hire service as part of our games hire offering complete with host to score the evening for you. We hire free-standing dart boards which means no issues with drilling a board into an existing wall. We always provide a scorer/host for this hire which provides for an unparalleled darts hire offering.  As with all our games hire options we provide all the necessary accessories - darts, spare flights, chalk and roll out oche. 
+
+prodList: 
+<li>Dartboard on freestanding frame with backboard</li>
+<li>Darts, Spare Flights, Chalk</li>
+<li>Host/scorer for the evening</li>
+<li>Roll out oche</li>
+<li>Delivery, installation and collection</li>
+
+prodDim: 
+<li>Distance required of 236cm from oche to board</li>
+<li>Height of 240cm required as a minimum</li>
+<li>We require a standard single door width for install</li>
+
+prodRules: 
+Each player has 3 darts and each player starts on a score of 301 or 501. The aim is to reduce your total score from hereon in. Darts must land in the board and stay in the board to score points. The points scored are determined by where in the dartboard the darts have landed. The board displays numbers 1 - 20 and each of these sections has a double and triple option available. The outer ring is the double and hitting a double scorers you double the points available in that section. The triples apply to the inner ring. As such the best score available is triple 20, therefore the best score with 3 darts is 180. Players must finish on a double, e.g. if the player has 32 points left he must hit the double 16 to ‘checkout’, if no-one hits a double for a long time, best to play closest to the bullseye to settle the game! The bullseye scores you 50 points and the outer bullseye scores you 25. Lets. Play. Darts! 
+
+prodBook:
+https://burlingtongames.typeform.com/to/ue3m2N
+
+)
+
+----
+
+Contactoptions: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

@@ -1,0 +1,99 @@
+Title: Casino Party Packages
+
+----
+
+Introtitle: Casino theme entertainment sorted
+
+----
+
+Introcopy: Choose from our affordable casino party packages through to premium casino hire packages. There's a package for all right here. We are London's most reliable, well priced casino hire company and we cater for all event sizes.
+
+----
+
+Headerimage: 
+
+----
+
+Introtext: Casino Table Hire Packages
+
+----
+
+Productinfo: 
+
+(package: 1 Table Casino Package
+prodDesc: 
+prodList: 
+<li>1 x Full Size Casino Table</li>
+<li>Choose from Roulette, Blackjack, Dice or Poker</li>
+<li>Professional croupier dressed to impress to deal and entertain guests</li>
+<li>Fun Money</li>
+<li>1 x Bottle of bubbly for the biggest winner on the night</li>
+prod01: 1 Table Casino Package
+prod01Price: £250-£350)
+prodBook:https://burlingtongames.typeform.com/to/Cp2AOT)
+
+(package: Standard Casino Package
+prodDesc: 
+prodList: 
+<li>2 x Full Size Casino Tables</li>
+<li>Choose from Roulette, Blackjack, Dice or Poker</li>
+<li>2 x Professional croupiers dressed to impress to deal and entertain guests</li>
+<li>Branded Fun Money</li>
+<li>1 x Bottle of bubbly for the biggest winner on the night</li>
+prod01: Standard Casino Package
+prod01Price: £425-£550)
+prodBook:https://burlingtongames.typeform.com/to/s8ptjs)
+
+(package: Premium Casino Package
+prodDesc: 
+prodList: 
+<li>3 x Full Size Casino Tables</li>
+<li>Choose from Roulette, Blackjack, Dice or Poker</li>
+<li>3 x Professional croupiers dressed to impress to deal and entertain guests</li>
+<li>Branded Fun Money</li>
+<li>1 x Bottle of bubbly for the highest roller on the night</li>
+prod01: Premium Casino Package
+prod01Price: £600-£750)
+prodBook:https://burlingtongames.typeform.com/to/LKnfZ8)
+
+(package: Deluxe Casino Package
+prodDesc: 
+prodList: 
+<li>4 x Full Size Casino Tables</li>
+<li>Choose from Roulette, Blackjack, Dice or Poker</li>
+<li>4 x Professional croupiers dressed to impress to deal and entertain guests</li>
+<li>Branded Fun Money</li>
+<li>1 x Bottle of bubbly for the highest roller on the night</li>
+prod01: Deluxe Casino Package
+prod01Price: £775-£950)
+prodBook:https://burlingtongames.typeform.com/to/O89oPK)
+
+----
+
+Extrasimages: 
+
+- 
+  title: ""
+  icon: 08-pl-1200x800.png
+- 
+  title: ""
+  icon: 08-pl-1200x800.png
+- 
+  title: ""
+  icon: 08-pl-1200x800.png
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Ctatitle: Let's play
+
+----
+
+Ctatext: 

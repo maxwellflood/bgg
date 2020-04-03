@@ -1,0 +1,124 @@
+Title: Casino Hire Packages
+
+----
+
+Headerimage: 
+
+----
+
+Introtext: The most affordable and highest quality casino hire packages on the market! Find the package to suit your budget.
+
+----
+
+Productinfo: 
+
+(package: 1 Table Casino Package
+prodDesc: 
+prodList: 
+<li>1 x Full Size Casino Table</li>
+<li>Choose from Roulette, Blackjack, Dice or Poker</li>
+<li>Professional croupier dressed to impress to deal and entertain guests</li>
+<li>Fun Money</li>
+<li>1 x Bottle of bubbly for the biggest winner on the night</li>
+<li>Delivery, Installation and Collection included within London</li>
+prod01: 1 Table Casino Package
+prod01Price: £250-£350
+prodBook: https://burlingtongames.typeform.com/to/Cp2AOT)
+
+(package: The Jack of Clubs Package
+prodDesc:
+prodList: 
+<li>2 x Full Size Casino Tables</li>
+<li>Choose from Roulette, Blackjack, Dice or Poker</li>
+<li>2 x Professional croupiers dressed to impress to deal and entertain guests</li>
+<li>Fun Money</li>
+<li>1 x Bottle of bubbly for the highest roller on the night</li>
+<li>Delivery, Installation and Collection included within London</li>
+prod01: Jack of Clubs Package
+prod01Price: From £425 -£550
+prodBook:https://burlingtongames.typeform.com/to/bWvB0J)
+
+(package: The Queen of Diamonds Package
+prodDesc:
+prodList: 
+<li>3 x Full Size Casino Tables</li>
+<li>Choose from Roulette, Blackjack, Dice or Poker</li>
+<li>3 x Professional croupiers dressed to impress to deal and entertain guests</li>
+<li>1 x Bottle of bubbly for the highest roller on the night</li>
+<li>Fun Money</li>
+<li>Delivery, Installation and Collection included within London</li>
+prod01: Queen of Diamonds Package
+prod01Price: From £600 - £750
+prodBook:https://burlingtongames.typeform.com/to/KfCg3f)
+
+(package: The King of Hearts Package
+prodDesc:
+prodList: 
+<li>4 x Full Size Casino Tables</li>
+<li>Choose from Roulette, Blackjack, Dice or Poker</li>
+<li>4 x Professional croupiers dressed to impress to deal and entertain guests with 1 acting as Casino Manager</li>
+<li>1 x Bottle of bubbly for the highest roller on the night</li>
+<li>Fun Money</li>
+<li>Delivery, Installation and Collection included within London</li>
+prod01: King of Hearts Package
+prod01Price: From £775 - £950
+prodBook:https://burlingtongames.typeform.com/to/BokFWw)
+
+(packageBtm: The Ace of Spades Package
+prodDesc:
+prodList: 
+<li>2 x Vegas Showgirls to meet and greet guests, serve canapés and pose for photos</li>
+<li>1 x Blackjack table</li>
+<li>1 x Roulette table</li>
+<li>1 x Craps or Poker table</li>
+<li>1 x Additional table of your choosing</li>
+<li>4 x Professional croupiers dressed to impress to deal and entertain guests</li>
+<li>3 x Bottles of bubbly for the highest rollers on the night</li>
+<li>1 x Casino Manager to man the casino floor</li>
+<li>Personalised or branded fun money dollars to issue as a ‘bankroll’ for guests</li>
+<li>Delivery, Installation and Collection included within London</li>
+prod01: Ace of Spades Package
+prod01Price: £1500
+prodBook:https://burlingtongames.typeform.com/to/MaE8oi)
+
+----
+
+Extras: 
+
+----
+
+Extrastitle: Custom Branding
+
+----
+
+Extrastext: 
+
+----
+
+Ctatitle: Ready to play like a pro?
+
+----
+
+Ctatext: 
+
+----
+
+Extrasimages: 
+
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+
+----
+
+Introtitle: Casino Table Hire
+
+----
+
+Introcopy: Choose from 1 table or more for affordable package prices for your upcoming party. Name the venue and date and let us provide the casino entertainment!

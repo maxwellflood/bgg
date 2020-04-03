@@ -1,0 +1,101 @@
+title: Home
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+
+  introTitle:
+    label: Intro Title
+    type:  text
+
+  introCopy:
+    label: Intro Text
+    type:  textarea
+
+
+  block01Title:
+    label: Content Block 01 Title
+    type:  text
+
+  block01Image:
+    label: Content Block 01 Image
+    type: image
+    width: 1/2
+
+  block01Link:
+    label: Content Block 01 Page Link
+    type:  text
+    width: 1/2
+
+  block01Text:
+    label: Content Block 01 Text
+    type:  textarea
+
+
+  block02Title:
+    label: Content Block 02 Title
+    type:  text
+
+  block02Image:
+    label: Content Block 02 Image
+    type: image
+    width: 1/2
+
+  block02Link:
+    label: Content Block 02 Page Link
+    type:  text
+    width: 1/2
+
+  block02Text:
+    label: Content Block 02 Text
+    type:  textarea
+
+
+  block03Title:
+    label: Content Block 03 Title
+    type:  text
+
+  block03Image:
+    label: Content Block 03 Image
+    type: image
+    width: 1/2
+
+  block03Link:
+    label: Content Block 03 Page Link
+    type:  text
+    width: 1/2
+
+  block03Text:
+    label: Content Block 03 Text
+    type:  textarea
+
+
+  block04Title:
+    label: Content Block 04 Title
+    type:  text
+
+  block04Image:
+    label: Content Block 04 Image
+    type: image
+    width: 1/2
+
+  block04Link:
+    label: Content Block 04 Page Link
+    type:  text
+    width: 1/2
+
+  block04Text:
+    label: Content Block 04 Text
+    type:  textarea
+
+  ctaTitle:
+    label: CTA Title
+    type:  text
+
+  ctaText:
+    label: CTA Text
+    type:  textarea

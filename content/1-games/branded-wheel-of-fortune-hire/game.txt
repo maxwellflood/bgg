@@ -1,0 +1,65 @@
+Title: Branded Wheel of Fortune Hire
+
+----
+
+Headerimage: 
+
+----
+
+Introtext: Perfect for Trade Shows, Fundraisers or as an addition to your casino themed event. Our Wheel of Fortune is custom built for your event.
+
+----
+
+Gametype: casino
+
+----
+
+Productinfo: 
+
+(product: Branded Wheel of Fortune Hire
+
+prodDesc:If you arranging a fun casino themed charity event or needing to attract visitors to your stand at an upcoming trade show these wheels are an affordable personalised option. The prize wheels are weather resistant even for an outdoor event. Wheels come on an adjustable stand which can reach up to 2m tall. Diameter of wheels can vary to suit your needs from 60cm -100cm in diameter. All wheels come with black marker pens as well if you wish to amend or make notes on the wheel for the sake of giving out prizes. The booking process is very simple - send through your design assets and we can apply to the wheel and provide you with a range of artwork proofs for your chosen wheel size.
+
+prodList: 
+<li>Choose from 16 -32 boxes on your design of wheel</li>
+<li>2 x Artworks and designs of wheel included in cost</li>
+<li>Variety of sizes available</li>
+<li>Black tripod stand for wheel to stand on</li>
+<li>Delivery, installation & collection</li>
+<li>Free storage of wheel for future events</li>
+
+prodDim: 
+<li>Stands up to 2m tall </li>
+<li>Diameter of wheel ranges from 60cm-100cm</li>
+
+
+prodRules: 
+The rules couldn't be simpler! Let your guests spin the wheel. Wherever it lands indicates the prize that the player can claim. Previous successful events have included coloured sections where a certain colour allows guests a choice of certain prizes. Gold prizes, silver prizes and bronze prizes, booby prizes and 1 section for the star prize! 
+
+prodBook:
+https://burlingtongames.typeform.com/to/qddfu2
+)
+
+----
+
+Contactoptions: 
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: Let's play
+
+----
+
+Ctatext: 

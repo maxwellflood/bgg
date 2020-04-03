@@ -1,0 +1,78 @@
+Title: About Us
+
+----
+
+Intro: This page demonstrates how you can utilize subpages to store content, like our team members shown below. This approach is especially useful when you have to handle a large number of datasets, many different kinds of data (like page sections) or very complex data with a lot of media files or fields.
+
+----
+
+Text: The approach of using subpages for storing content sections of a page can also be very useful for creating a (link: https://getkirby.com/docs/cookbook/one-pager text: one-page) website, featuring very different kinds of content.
+
+----
+
+Introtitle: Hire Quality
+
+----
+
+Introcopy: We are a games hire specialists based in London. We provide the highest quality garden games, sports games and fun casino equipment for private parties and corporate events. Our team of co-ordinators and professional croupiers are here to ensure that your event is memorable for all the right reasons.
+
+----
+
+Servicestitle: Our Services
+
+----
+
+Servicescopy: 
+
+Burlington Games Group are based in Central London and can support any event in Greater London. We provide equipment and staff for any event, from small private parties, to large corporate events. Our events staff are professionally experienced croupiers (for casino related events) or trained coordinators to ensure your games are delivered, prepared and removed safely.
+
+We can take bookings up to the day before an event (availability allowing), and are happy to accommodate specific requirements where possible.
+
+The events that we specialise in are as follows: 
+<br>
+###Corporate 
+Office Parties
+Product Launches
+Trade Shows
+Client Entertainment 
+Film / Photography Shoots
+<br>
+###Private Parties
+Birthdays
+Fundraisers
+Weddings
+Anniversaries
+Bar and Bat Mitzvahs
+Children’s Parties
+Stag and Hen Do’s 
+<br>
+###Agencies
+Event Agency partners - If you are an agency looking for professional support with equipment hire, please get in touch.
+
+----
+
+Whytitle: How we roll
+
+----
+
+Whycopy: 
+
+###High Quality Tables & Equipment
+Our casino tables are purpose-built using premium materials to ensure a quality look and feel, and to create a casino-grade experience for our clients. Large and garden games are sourced from trusted manufacturers, ensuring that the build-quality is excellent and in-keeping with our own high standards.
+<br>
+###Experienced Professionals
+We are a combined team of professional croupiers and event organisers, collectively possessing 30 years experience across both industries. Having worked in some of London’s top casinos, as well as organising and managing private & corporate events across the UK, you can be confident that we’ll ensure working with us is an exceptional experience before, during and after your event.
+<br>
+###Reliable, Efficient & Friendly
+Once you’ve booked, we’re hired. We’ll be there on time, prepared and ready to go, ensuring that your guests can make the most of the experience from the moment they arrive. Our team know their business, and will be as involved or as invisible as your event requires.
+<br>
+###Accommodating
+We can accommodate most requests, and are able to offer fully branded equipment for anything from corporate branding to specialist imagery on almost all of our equipment. Our design team will be happy to amend any designs to fit the equipment, ensuring you don’t have any back-and-forth to ensure a quality product!
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

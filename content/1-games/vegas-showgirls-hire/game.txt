@@ -1,0 +1,63 @@
+Title: Vegas Showgirls
+
+----
+
+Headerimage: 
+
+----
+
+Introtext: Add some glamour to your casino hire booking with Vegas Showgirls. Showgirls with a variety of costumes, able to meet and greet guests, serve champagne and canapees and pose for photos. Dance routines also available for a taste of Vegas!
+
+----
+
+Gametype: casino
+
+----
+
+Productinfo: 
+
+(product: Vegas Showgirls
+
+prodDesc:Vegas Showgirls are a brilliant addition to your casino themed event. Showgirls are available to meet and greet guests, serve champagne and canapés as well as pose for photos with guests. The showgirls also help to hand out fun money to the guests on arrival so they are ready to take their chances at the roulette, blackjack, poker and dice tables. Showgirls are suitable for Vegas themed events, gatsby and roaring 20's events, prohibition events and James Bond themed events.
+
+prodList: 
+<li>Completely bespoke service to cater for your specific event</li>
+<li>Choice of outfits</li>
+<li>Choice of dance routines</li>
+<li>Meet and greet guests, pose for photos</li>
+<li>Hand out fun money to guests</li>
+<li>Serve champagne and canapés</li>
+
+prodDim: 
+<li>n/a</li>
+
+prodRules: 
+N/A
+
+prodBook:
+https://burlingtongames.typeform.com/to/kVI939
+)
+
+----
+
+Contactoptions: 
+
+----
+
+Extrastitle: 
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: 
+
+----
+
+Ctatext: 

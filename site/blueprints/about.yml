@@ -1,0 +1,46 @@
+title: About
+
+pages: false
+
+files: true
+
+options:
+  template: false
+  status: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  introTitle:
+    label: Intro Title
+    type:  text
+
+  introCopy:
+    label: Intro Text
+    type:  textarea
+
+  servicesTitle:
+    label: Services Title
+    type:  text
+
+  servicesCopy:
+    label: Services Text
+    type:  textarea
+
+  whyTitle:
+    label: Intro Title
+    type:  text
+
+  whyCopy:
+    label: Intro Text
+    type:  textarea
+
+  ctaTitle:
+    label: CTA Title
+    type:  text
+
+  ctaText:
+    label: CTA Text
+    type:  textarea

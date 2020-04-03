@@ -1,0 +1,76 @@
+Title: Roulette Table Hire
+
+----
+
+Headerimage: 09-ro-1440x960.png
+
+----
+
+Introtext: Each spin of the roulette wheel only takes a few minutes and as a result this game can keep hundreds of guests entertained over the course of your fun casino event.
+
+----
+
+Gametype: casino
+
+----
+
+Productinfo: 
+
+(product: Roulette Table Hire
+
+prodDesc:If you arranging a fun casino themed event it is essential you hire a roulette table. Our stock of new roulette tables include full size and full weight classic casino standard roulette wheels as well as the roulette table itself. Roulette table hire is our most popular casino table hire offering for all the right reasons. Full size roulette tables are constructed on site and can be installed in most venues. This roulette table design makes our roulette hire service suitable whether your event is an office casino party, vegas themed party at home or casino night for client entertainment at an external venue. Each spin of the roulette wheel only takes a few minutes and as a result this game can keep hundreds of guests entertained over the course of your fun casino event. 
+
+prodList: 
+<li>Full size roulette table with authentic full weight 80cm diameter wheel</li>
+<li>Professional croupier to deal and explain rules to guests</li>
+<li>Casino playing chips [11g colour] and cash chips [14.5g]</li>
+<li>Fun money tokens</li>
+<li>Bottle of bubbly for the winner</li>
+<li>Delivery, installation & collection</li>
+
+prodDim: 
+<li>Table once constructed measures 2.8m by 1.5m </li>
+<li>Footprint required 3.5m by 2m</li>
+<li>Accommodates up to 10 players at any one time</li>
+
+prodRules: 
+The rules of roulette are purposefully simple to keep guests entertained at the roulette table. The roulette wheel has 37 numbers which provides a wide range of betting options. Simple ‘outside bets’ on red or black, odd or even and larger pay-outs on the numbers ‘straight up’. 
+Betting on the ‘inside’ refers to betting on numbers or splits or sections of numbers and these payout at higher odds. The best payout can be attained through betting on a single number which pays at 35/1. You can bet on 2 particular numbers at odds of 17/1, a set of 3 particular numbers at odds of 11/1, a set of 4 particular numbers at odds of 8/1 or a group of 6 numbers at 5/1. 
+
+prodBook:
+https://burlingtongames.typeform.com/to/bOG3Uv
+)
+
+----
+
+Contactoptions: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: Ready to roll?
+
+----
+
+Ctatext: 

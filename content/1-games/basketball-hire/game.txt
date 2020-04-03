@@ -1,0 +1,63 @@
+Title: Basketball Game Hire
+
+----
+
+Headerimage: 
+
+----
+
+Introtext: Try your hand at our Basketball Battle. A one to four player game. We can install this game in any venue for you and your guests to battle it out for the highest points total via the automatic scoring system
+
+----
+
+Gametype: sports
+
+----
+
+Productinfo: 
+
+(product: Basketball Game Hire
+
+prodDesc:Our basketball hire option provides all the fun of an arcade or funfair style basketball challenge. Two nets and 4 balls allow for a variety of gaming options from 1-4 player challenges. Game options include highest point total in a set time (30,45 or 60 seconds) as well as horse, against the clock and team challenge mode. Basketball set is complete with infra-red sensors to log scores on an electronic scorer.  
+
+prodList: 
+<li>Double Shoot Basketball self standing unit</li>
+<li>Audible electronic scorer with LED display</li>
+<li>Control panel for game selection</li>
+<li>4 midi size basketballs suitable for children and adults</li>
+<li>Delivery, installation and collection</li>
+
+prodDim: 
+<li>Basketball Games are: 205cm length x 112cm width and height 205cm </li>
+<li>We require a standard single door width for install. </li>
+
+prodRules: 
+The double shoot basketball has a variety of settings to allow the left hand hoop to act as HOME and the right hand hoop as VISITOR. Set the timer to 30, 45 or 60 seconds and play 1,2,3 or 4 player game settings. Game settings include Beat The Time Clock, Point Beat, Battle Back, HORSE, Check Point, Around the World, Left and Right Shoot and One on One.
+
+prodBook:
+https://burlingtongames.typeform.com/to/fDMfWq
+)
+
+----
+
+Contactoptions: 
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

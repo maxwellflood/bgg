@@ -1,0 +1,76 @@
+Title: Air Hockey Hire
+
+----
+
+Headerimage: 
+
+----
+
+Introtext: Air hockey table hire is a great addition to a winter sports themed party and much like our other games hire options it can be booked as a stand alone item or as part of one of our games hire packages.
+
+----
+
+Gametype: sports garden
+
+----
+
+Productinfo: 
+
+(product: Air Hockey Hire
+
+prodDesc:The air hockey table is the arcade centre stalwart. If you want to hire an air hockey table but are concerned about space then don’t worry because we stock portable air hockey tables that can be fitted into the toughest of venues. Our air hockey table hire service comes complete with all the necessary accessories. Much like our table football table hire service the air hockey tables are not coin operated so your guests can play all night long. Ice hockey table hire is a great addition to a winter sports themed party and much like our other games hire options it can be booked as a stand alone item or as part of one of our games hire packages. 
+
+prodList: 
+<li>Arcade spec air hockey table</li>
+<li>Audible electronic scorer with LED display</li>
+<li>2 x Air hockey pushers per table</li>
+<li>4 x Air hockey pucks</li>
+<li>Adjustable feet on tables for correcting on uneven surfaces</li>
+<li>Extension lead for installation purposes</li>
+<li>Delivery, installation and collection</li>
+
+prodDim: 
+<li>Air Hockey Tables are: length 213cm x width 107cm x height 81cm</li>
+<li>We require a standard single door width for install. </li>
+
+prodRules: 
+Air Hockey is a 2 player game where players are trying to score by landing the puck in the gap at the end of the table. Players must stand on their side of the centreline and can not cross it. Players are only allowed to touch the puck with their pusher (so no hands, clothing or anything else may come into contact with the air hockey puck. At no point are players allowed to trap the air hockey puck, they must only make contact with the puck on the side of the pusher. For goals to be scored the puck must remain in the goal, bounce outs do not count. Once a goal is scored the player who conceded starts the game. The first to 7 is the winner unless playing a timed game. Timed games require players in possession to make a shot within 7 seconds of being in possession of the air hockey puck.
+
+prodBook:
+https://burlingtongames.typeform.com/to/vgdlfp
+
+)
+
+----
+
+Contactoptions: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

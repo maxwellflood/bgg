@@ -1,0 +1,81 @@
+Title: Custom Branding
+
+----
+
+Introtitle: Personalise your event
+
+----
+
+Introcopy: Whatever the game, whatever the requirement we can personalise your event with our custom branding service. We provide a branding service for all our casino tables, the playing chips and branded fun money. Similarly for our games hire service all items can be branded with your company logo or any selected image of your choosing. Simply send us your logo/image and we’ll send you our artwork proof so you can envisage what your personalised games will look like. This is a great addition for product launches, corporate events and weddings.
+
+----
+
+Block01title: Get Creative
+
+----
+
+Block01image: custom_01.png
+
+----
+
+Block01link: 
+
+----
+
+Block01text: From playing chips to the entire table. Fun money, casino tables, chips, table tennis tables or football tables, branded Air Hockey tables, we’ve got branding for your corporate event covered.
+
+----
+
+Block02title: Simple Process
+
+----
+
+Block02image: custom_03.png
+
+----
+
+Block02link: 
+
+----
+
+Block02text: We know our equipment measurements, so there's no hassle sending measurements back and forth. Just send us your logo and branding and we'll take care of the rest.
+
+----
+
+Block03title: 
+
+----
+
+Block03image: 
+
+----
+
+Block03link: 
+
+----
+
+Block03text: 
+
+----
+
+Block04title: 
+
+----
+
+Block04image: 
+
+----
+
+Block04link: 
+
+----
+
+Block04text: 
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

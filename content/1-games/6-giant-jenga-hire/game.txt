@@ -1,0 +1,71 @@
+Title: Giant Jenga Hire
+
+----
+
+Headerimage: 09-gj-1440x960.png
+
+----
+
+Introtext: Giant Jenga is a fantastic game to hire for garden parties whether entertaining the family or colleagues at an office summer party.
+
+----
+
+Gametype: garden
+
+----
+
+Productinfo: 
+
+(product: Giant Jenga Hire
+
+prodDesc:Giant Jenga is a fantastic game to hire for garden parties whether entertaining the family or colleagues at an office summer party. A competitive classic that can be played in teams or as individuals and can be played indoors or outdoors. 
+
+prodList: 
+<li>54 Giant Wooden blocks</li>
+<li>Zip up canvas carry case</li>
+<li>Delivery, installation and collection as part of a garden games package</li>
+
+prodDim: 
+<li>Tower stands 1.2m tall and then ascends during play.</li>
+<li>Recommend a 2m by 2m space to allow bricks to fall safely.</li>
+
+prodRules: 
+Divide yourselves into teams or play as individuals. We recommend 2 - 6 players at most. Assemble the tower and then the player to go first must remove a block and place the block at the top of the jenga tower without the tower falling over. Players take it turn to do this. During play, players can not touch the tower unless it is their turn. We suggest using the rule that only 1 hand can be used and suggest that players can only touch upto 3 blocks when deciding which one to remove. Whoever was the last player to add a brick to the top of the tower before it falls is the loser and must reassemble the tower for the next game!
+
+prodBook:
+https://burlingtongames.typeform.com/to/kBAAT2
+)
+
+----
+
+Contactoptions: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+
+----
+
+Extrastitle: Custom Branding Services
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

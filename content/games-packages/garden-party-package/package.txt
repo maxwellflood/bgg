@@ -1,0 +1,91 @@
+Title: Garden Party Packages
+
+----
+
+Introtitle: Let's Play
+
+----
+
+Introcopy: Our garden party packages include all the most popular garden games at an affordable price. With a range of packages to suit all types of garden parties, choose the package that suits to allow you to book garden games to entertain adults and children alike. Suitable for garden parties, rooftop spaces and outdoor venues. Our products include traditional lawn games, giant versions of the classics and modern table games provide the perfect mix for entertaining guests are your event.
+
+----
+
+Headerimage: 
+
+----
+
+Introtext: Our garden party package include all the most popular garden games at great prices.
+
+----
+
+Productinfo: 
+
+(package: Standard Garden Games Package
+prodDesc: The standard package includes 5 garden games. We’ve chosen the most popular garden games for our standard package. The games are beautifully maintained and will add an extra dimension to your garden party keeping adults and children alike entertained.
+prodList: 
+<li>1 x Giant Jenga</li>
+<li>1 x Giant Connect 4</li>
+<li>1 x Boules</li>
+<li>1 x Quoits</li>
+<li>1 x Table Tennis Table</li>
+prod01: Standard Garden Games Package
+prod01Price: £350
+prodBook:https://burlingtongames.typeform.com/to/hOYBsX)
+
+(package: Premium Garden Games Package
+prodDesc: All the above items but also includes a championship croquet set or any other additional item of your choosing
+prodList: 
+<li>1 x Giant Jenga</li>
+<li>1 x Giant Connect 4</li>
+<li>1 x Boules</li>
+<li>1 x Quoits</li>
+<li>1 x Table Tennis Table</li>
+<li>1 x Croquet Set or any other additional item of your choosing</li>
+prod01: Premium Garden Games Package
+prod01Price: £475
+prodBook:https://burlingtongames.typeform.com/to/SKDoXq)
+
+(package: Deluxe Garden Games Package
+prodDesc: Our deluxe games hire package includes all the items in the premium package as well as an additional item of your choosing.
+prodList: 
+<li>1 x Giant Jenga</li>
+<li>1 x Giant Connect 4</li>
+<li>1 x Boules</li>
+<li>1 x Quoits</li>
+<li>1 x Giant Chess</li>
+<li>1 x Table Tennis Table</li>
+<li>1 x Croquet Set </li>
+<li>1 x Any other additional item of your choosing</li>
+prod01: Deluxe Garden Games Package
+prod01Price: £675
+prodBook:https://burlingtongames.typeform.com/to/FvimhT)
+
+----
+
+Extrasimages: 
+
+- 
+  title: ""
+  icon: 08-pl-1200x800.png
+- 
+  title: ""
+  icon: 08-pl-1200x800.png
+- 
+  title: ""
+  icon: 08-pl-1200x800.png
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

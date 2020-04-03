@@ -1,0 +1,72 @@
+Title: Table Football  Hire
+
+----
+
+Headerimage: 09-tf-1440x960.png
+
+----
+
+Introtext: Our Table Football Hire service includes full size, sturdy yet portable football tables. An excellent playing experience for all.
+
+----
+
+Gametype: garden sports
+
+----
+
+Productinfo: 
+
+(product: Table Football Hire
+
+prodDesc:Our stock of full size table football tables to hire are unrivalled in quality. Our table football tables are not coin operated which allows guests to play as much as they like throughout your event. These football tables are sturdy and heavy to allow an excellent playing experience. These table football tables can be branded on the pitch and around the side of the unit itself for product launches or client entertainment. 
+
+prodList: 
+<li>Full size professional table football table</li>
+<li>5 x Footballs</li>
+<li>Branded or personalised football tables</li>
+<li>Delivery, installation and collection</li>
+
+prodDim: 
+<li>Table Football Tables are 150cm by 120cm</li>
+<li>We require a standard single door width for install. </li>
+
+prodRules: 
+To start the game the ball must be dropped into the centre circle with no spin put on the ball. Throughout the course of the game players must not spin. A spin is when the rod completes a 360 degree rotation without touching the ball. It’s not only against the rules but considered pretty bad form as well! You are also not allowed to jar which involves jamming the rods as a distraction unless you are not in possession and are defending. If the ball ever goes dead, the ball must be picked up and re-entered onto the pitch. You cannot shake or move the table to get the ball back into play. The first player or team to score 10 goals is the winner
+
+prodBook:
+https://burlingtongames.typeform.com/to/bMzIQx
+)
+
+----
+
+Contactoptions: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

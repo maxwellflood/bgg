@@ -1,0 +1,100 @@
+Title: Game Hire Specialists
+
+----
+
+Intro: Yay! If you are seeing this, the installation of Kirby worked. :-)
+
+----
+
+Text: 
+
+## Get started
+
+- Go to the (link: panel text: Panel) to give Kirby's admin interface a try
+- Check out the (link: http://getkirby.com/docs text: docs) and start building your own site
+- Follow (twitter: @getkirby) on Twitter for updates
+- Visit the (link: http://forum.getkirby.com text: forum) to connect with other Kirby users
+- Sign up to (link: https://getkirby.com/#kosmos text: Kirby Kosmos), our monthly newsletter
+- (link: http://getkirby.com/support text: Get in contact) if you need support.
+
+**Have fun with Kirby!**
+
+----
+
+Introtitle: Hire Quality
+
+----
+
+Introcopy: We are a fun casino and games hire specialists based in London. We provide the highest quality garden games, sports games and fun casino equipment for private parties and corporate events. Our team of co-ordinators and professional croupiers are here to ensure that your event is memorable for all the right reasons.
+
+----
+
+Block01image: 09-hp-gh-v4-1440x960.png
+
+----
+
+Block01title: Games Hire
+
+----
+
+Block01text: We have a huge range of sports games, garden games and fun casino games. Perfect for all kinds of indoor and outdoor events.
+
+----
+
+Block01link: games
+
+----
+
+Block02title: Games Packages
+
+----
+
+Block02image: 09-hp-pack-v3-1440x960.png
+
+----
+
+Block02text: Our games packages are a great way to entertain guests of all ages and tastes at your next party.
+
+----
+
+Block02link: games-packages
+
+----
+
+Block03title: Masterclasses
+
+----
+
+Block03image: 09-cas_mc-1440x960.png
+
+----
+
+Block03text: Learn how to play Poker, Craps, Roulette and Blackjack from the pros. We have classes for players of all levels looking to up their game.
+
+----
+
+Block03link: masterclasses
+
+----
+
+Block04title: Custom Branding
+
+----
+
+Block04image: custom_01.png
+
+----
+
+Block04link: custom-branding
+
+----
+
+Block04text: Take your next event to another level with our bespoke branding service.
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

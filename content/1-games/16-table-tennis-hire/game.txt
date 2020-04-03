@@ -1,0 +1,75 @@
+Title: Table Tennis Hire
+
+----
+
+Headerimage: 09-tt-1440x960.png
+
+----
+
+Introtext: Full size table tennis tables for hire which can be used indoors and outdoors
+
+----
+
+Gametype: sports garden
+
+----
+
+Productinfo: 
+
+(product: Table Tennis Hire
+
+prodDesc:Full size table tennis tables for hire which can be used indoors and outdoors. Our tables are light weight to allow installation in a variety of venues. Included in the hire are all the accessories required. Our ping pong table hire option is great as part of a large games package booking and we are equally capable to hire table tennis tables as a stand alone item. Tables can also be branded using our custom branding service. 
+
+prodList: 
+<li>Full size professional outdoor table tennis tables, complete with adjustable feet</li>
+<li>1 x Net with clips</li>
+<li>4 x Table Tennis Bats</li>
+<li>8 x Table Tennis Balls</li>
+<li>Delivery, installation and collection</li>
+
+prodDim: 
+<li>Table Tennis Tables are:  length 273cm x width 152.5cm x height 76cm </li>
+<li>Minimum play area: 5.1m long x 3.3m wide [17' long x 11' wide], guideline only</li>
+<li>For delivery purposes tables split into 2 parts of size: 162cm high x 183cm wide x 66cm deep</li>
+
+prodRules: 
+To start the game of table tennis the server must throw the ball vertically, at least 16cm, up in the air using an open palm, without spinning the ball. The server then hits the table tennis ball so that it touches her section of the court first, passes over the net and then lands in the receiver’s half of the court. There are various ways to score points once in a rally; Points can be scored if the opponent fails to make a correct service, fails to make a return, the ball touches any part of an opponent’s body, strikes the ball twice in succession, or your opponent touches the playing surface or net during a rally. Every 2 points the server swaps and the winner is the player to attain 11 points first but must win by a 2 point or more difference. Much like tennis the games lead to sets and winners are determined by the most sets won. 
+
+prodBook:
+https://burlingtongames.typeform.com/to/O1BYSA
+
+)
+
+----
+
+Contactoptions: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: Ready to play?
+
+----
+
+Ctatext: 

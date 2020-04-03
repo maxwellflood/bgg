@@ -1,0 +1,55 @@
+title: Masterclass
+
+pages: false
+
+options:
+  template: true
+  status: true
+  url: true
+
+fields:
+  title:
+    label: Packages Title
+    type:  text
+
+  headerImage:
+    label: Header image
+    type: image
+
+  introText:
+    label: Text Snippet
+    type:  text
+    width: 1/2
+
+  productInfo:
+    label: Product Info
+    type: textarea
+
+  extrasImages:
+    label: Custom Branding
+    type: structure
+    style: table
+    fields:
+      title:
+        label: Title
+        type: text
+      icon:
+        label: Image
+        type: image
+
+  extrasTitle:
+    label: Extras Title
+    type:  text
+
+  extrasText:
+    label: Extras Text
+    type:  textarea
+
+
+  ctaTitle:
+    label: CTA Title
+    type:  text
+
+  ctaText:
+    label: CTA Text
+    type:  textarea

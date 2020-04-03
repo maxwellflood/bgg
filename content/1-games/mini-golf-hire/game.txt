@@ -1,0 +1,81 @@
+Title: Mini Golf Hire
+
+----
+
+Headerimage: 
+
+----
+
+Introtext: Portable indoor and outdoor mini golf courses for the office, roof terrace, weddings and more. 9 hole courses with London themed obstacles or fully customised and branded courses. The perfect urban golf solution.
+
+----
+
+Gametype: sports garden
+
+----
+
+Productinfo: 
+
+(product: Mini Golf Hire
+
+prodDesc:Our Mini Golf Hire offering has everything required for the perfect crazy golf experience. Our courses are completely customisable thanks to the modular system to construct the courses. This means they can fit into odd spaces as well as large spaces. Anything from roof terrace parties to garden parties, indoor office events and client entertainment. Our packages include putters, balls, score cards, number cones and a variety of brilliant obstacles. Obstacles and the course in its entirety can be branded or personalised for marketing purposes or personalised wedding parties. Check out below the wide selection of courses available and what's included. 
+
+prodList: 
+<li>Large Mini Golf Package</li>
+<li>27 x 1msq astro grass tiles</li>
+<li>Foam edge bumpers</li>
+<li>Assorted obstacle pieces</li>
+<li>18 x rubber headed putters</li>
+<li>18 x low bounce balls</li>
+<li>Scorecards, clipboards and pencils</li>
+<li>Number cones 1-9</li>
+<li>Delivery, installation and collection</li>
+
+<li>Extra Large Mini Golf Package</li>
+<li>36 x 1msq astro grass tiles</li>
+<li>Foam edge bumpers</li>
+<li>Assorted obstacle pieces</li>
+<li>24 x rubber headed putters</li>
+<li>24 x low bounce balls</li>
+<li>Scorecards, clipboards and pencils</li>
+<li>Number cones 1-9</li>
+<li>Delivery, installation and collection</li>
+
+prodDim: 
+<li>Large Mini Golf has 9 holes at 2,3 and 4 square metres </li>
+<li>Large Mini Golf total amount is 27 x 1 metre square astro grass tiles </li>
+<li>Extra Large Mini Golf has 9 holes at 3,4 and 5 square metres </li>
+<li>Extra Large Mini Golf total amount is 36 x 1 metre square astro grass tiles </li>
+
+prodRules:
+All players start at the first hole as marked out by the numbered cones. Each player needs to carry with them their scorecard to note down their scores. The aim of the game is to put the golf ball into the hole in as few attempts as possible. Players must complete each hole in order without skipping any holes. Players can only use the head of their putter to put the ball into the hole and must put from the tee off area. Once the ball is potted it is important to take note at each hole how many attempts it took to put the ball at each hole. The player with the lowest score is the winner. For example, if a player scores a hole in one at every hole on a 9 hole course, their score will be 9. 
+ 
+
+prodBook:
+https://burlingtongames.typeform.com/to/n6AZxW
+
+)
+
+----
+
+Contactoptions: 
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Ctatitle: Let's play
+
+----
+
+Ctatext: 

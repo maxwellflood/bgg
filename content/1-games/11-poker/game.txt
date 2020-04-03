@@ -1,0 +1,97 @@
+Title: Poker Table Hire
+
+----
+
+Introtitle: Poker Table Hire
+
+----
+
+Introcopy: 
+
+Poker table hire is our speciality. This games acts a great platform for client entertainment, team building events and charity poker nights or fundraisers. 
+
+Fun casino nights involve playing against the house, but with Poker events your guests are able to play against each other. Our poker table hire service provides the platform for guests to challenge themselves and challenge each other. Our croupiers provide expert tuition in how to play poker, etiquette and even a few tips at how to win! 
+
+We find this game is equally popular at office poker events as well as more intimate home poker nights. For team building events this will really embrace competitiveness, graciousness in defeat and victory, and test your guests’ mental ability.
+
+----
+
+Ctatitle: Ready to play like a pro?
+
+----
+
+Ctatext: 
+
+----
+
+Headerimage: 09-po-1440x960.png
+
+----
+
+Introtext: Poker table hire acts as a great platform for client entertainment, team building events and charity poker nights or fundraisers.
+
+----
+
+Gametype: casino
+
+----
+
+Productinfo: 
+
+(product: Poker Table Hire
+
+prodDesc: Poker table hire is our speciality. Poker tables are a great option if you're looking for a more intimate guest experience. This games acts as a great platform for client entertainment, team building events and charity poker nights or fundraisers. Fun casino nights involve playing against the house, but with poker events your guests are able to play against each other. Our poker table hire service provides the platform for guests to challenge themselves and challenge each other. Our croupiers provide expert tuition in how to play poker, etiquette and even a few tips at how to win! We find this game is equally popular at office poker events as well as more intimate home poker nights. For team building events this will really embrace competitiveness, graciousness in defeat and victory, and test your guests’ mental ability. 
+
+prodList: 
+<li>Full size one piece poker tables</li>
+<li>Professional croupiers for each poker table</li>
+<li>Casino playing chips [14.5g denomination tournament poker chips $5 - $5,000]</li>
+<li>Tuition session prior to playing period</li>
+<li>Bottle of bubbly for the tournament winner</li>
+<li>Delivery, installation & collection</li>
+
+prodDim: 
+<li>Table once constructed measures 2.4m by 1.2m</li>
+<li>Footprint required 3m by 1.5m</li>
+<li>Accommodates up to 10 players at any one time</li>
+
+prodRules: 
+Because we provide every poker variant as a service there's not enough space to run through all the rules and procedures of poker! If you want to learn more about Poker then let us teach you Draw, Stud, Omaha and all the brilliant variants of this fantastic game. Rules for each variant of Poker are slightly different so let us advise you on the night, all part of the service.
+
+prodBook:
+https://burlingtongames.typeform.com/to/z7x1TP 
+)
+
+----
+
+Productimage: pl-1440x300.png
+
+----
+
+Extrastitle: Custom Branding Service
+
+----
+
+Extrastext: 
+
+----
+
+Extras: 
+
+----
+
+Icon: 01-pl-1440x300.png
+
+----
+
+Contactoptions: 
+
+- 
+  title: ""
+  icon: 04-cb-chip-v2.jpg
+- 
+  title: ""
+  icon: 04-cb-airhockey.jpg
+- 
+  title: ""
+  icon: 04-cb-tabletennis.jpg

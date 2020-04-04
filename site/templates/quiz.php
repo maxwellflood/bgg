@@ -1,10 +1,10 @@
-<?php snippet('header') ?>
+<?php snippet('header_quiz') ?>
 
     <!-- Typeform -->
     <div class="background-light-grey">
-      <div class="container">
+      <div class="container quiz-container">
         
-        <div class="row lg-padding-bottom" data-aos="fade-up">
+        <div class="row" data-aos="fade-up">
 
           <div class="quiz-wrapper">
 

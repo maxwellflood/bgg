@@ -766,17 +766,18 @@ nav{
 // -- Quiz
 .quiz-wrapper{
 	display: flex;
-	flex-direction: column;
+	flex-direction: row;
+	justify-content: top;
 	padding:16px ;
 	background-color: @white;
 	border-radius: 16px;
 	height: auto;
 }
 
-.quiz-wrapper .col-12{
+.quiz-wrapper .col-6{
 	padding: 0;
-	margin: auto;
-	width: 100%;
+	margin: 0;
+	width: 50%;
 }	
 
 // ---- Typeform
@@ -786,8 +787,13 @@ nav{
 	overflow: hidden;
 	border: solid 1px #d4dcdc;
 	width: 100%;
-	height: 400px;
+	height: 620px;
 	background-color: @white;
+}
+
+.typeform-widget{
+	width: 100%;
+	height: 620px;
 }
 
 // ---- Twitch
@@ -795,9 +801,12 @@ nav{
 .twitch-widget-wrapper{
 	width: 100%;
 	height: auto;
-	border-radius: 8px;
 	overflow: hidden;
-	margin-top: 16px;
+	padding-right: 16px;
+}
+
+iframe{
+	border-radius: 8px;
 }
 
 
@@ -1286,6 +1295,42 @@ nav{
 
 
 	/*----- Footer -----*/
+
+
+	// -- Quiz
+	.quiz-wrapper{
+		flex-direction: column;
+	}
+
+	.quiz-wrapper .col-6{
+		width: 100%;
+	}	
+
+	// ---- Typeform
+
+	.typeform-widget-wrapper{
+		height: 400px;
+		background-color: @white;
+	}
+
+	.typeform-widget{
+		width: 100%;
+		height: 400px;
+	}
+
+	// ---- Twitch
+
+	.twitch-widget-wrapper{
+		width: 100%;
+		height: auto;
+		overflow: hidden;
+		padding-right: 0px;
+		padding-bottom: 16px;
+	}
+
+	iframe{
+		border-radius: 8px;
+	}
 
 
 
